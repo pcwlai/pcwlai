@@ -9,4 +9,5 @@ author_profile: true
 
 {% include base_path %}
 
+Feel free to contact me for scientific or outreach opportunities.
 Email: chong.lai.22@ucl.ac.uk
