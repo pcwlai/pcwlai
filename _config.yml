@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Paul Lai"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Paul Lai"
 description              : &description "Paul Lai"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,8 +23,8 @@ repository               : "pcwlai/pcwlai.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Paul C.W. Lai"
+  avatar           : "profile.JPG"
+  name             : "Paul Chong Wa Lai"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher"
   # location         : "Earth"
@@ -38,7 +38,7 @@ author:
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-3601-5127"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

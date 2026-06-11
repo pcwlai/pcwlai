@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,8 +9,8 @@ redirect_from:
 
 Hi! I am Paul Lai, and my Chinese name is Chong Wa Lai (黎宗樺). 
 I am a postdoctoral researcher at RWTH Aachen University in Germany (starting in 2026 Sep), 
-  will be studying the three-dimensional distributions of cosmic rays and gas in the Milky Way.
-I have two major research interests,
+  and will be studying the three-dimensional distributions of cosmic rays and gas in the Milky Way.
+I am interested in two main research topics,
 1) high-energy astrophysical phenomena that are related to the neutrino and gamma-ray emission and
 2) probing the magnetic field structure of diffuse media with polarisation.
 Details about my work can be found in my CV and publications.
