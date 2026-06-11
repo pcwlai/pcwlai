@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV [here](https://github.com/pcwlai/pcwlai.github.io/master/files/cv.pdf) (last update: 2026 Jun).
+You can download my CV [here](/files/cv.pdf) (last update: 2026 Jun).
