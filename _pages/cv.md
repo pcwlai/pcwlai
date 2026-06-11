@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV here. (last update: 2026 Jun)
+You can download my CV here (last update: 2026 Jun).
