@@ -11,4 +11,4 @@ author_profile: true
 
 Please feel free to contact me for scientific or outreach opportunities.
 
-Email: chong.lai.22@ucl.ac.uk
+Email: chong.wa.lai@rwth-aachen.de
